@@ -30,5 +30,10 @@ The example application is a Job Search Application. It uses Github’s free job
 - React (create-react-app)
 - Redux
 
+## Known Problems
+- Results are always returned for Full-Time jobs even if full-time parameter is not selected while querying.
+
 ## Demo
-[Demo](https://github.com/Aarti-Daultani/qa_ui_developer_challenge_app/blob/master/Demo/Demo.gif)
+<p float="left">
+<img src="https://github.com/Aarti-Daultani/qa_ui_developer_challenge_app/blob/master/Demo/Demo.gif" width="810">
+</p>
