@@ -31,4 +31,4 @@ The example application is a Job Search Application. It uses Github’s free job
 - Redux
 
 ## Demo
-[Demo](Demo.gif)
+[Demo](https://github.com/Aarti-Daultani/qa_ui_developer_challenge_app/blob/master/Demo/Demo.gif)
